@@ -1,2 +1,2 @@
 # hosenahmad
-|2×2|
+a×b=(à)
